@@ -1,0 +1,26 @@
+{
+  "name": "code-kata-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage --collectCoverageFrom='./src/**'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banlyslash/code-kata-practice.git"
+  },
+  "author": "A Slash developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banlyslash/code-kata-practice/issues"
+  },
+  "homepage": "https://github.com/banlyslash/code-kata-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "axios": "^1.1.2"
+  }
+}
